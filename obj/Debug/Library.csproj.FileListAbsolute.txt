@@ -1,0 +1,94 @@
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library\bin\Debug\Library.exe.config
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library\bin\Debug\Library.exe
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library\bin\Debug\Library.pdb
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library\obj\Debug\Library.Books.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library\obj\Debug\Library.Dashboard.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library\obj\Debug\Library.login.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library\obj\Debug\Library.Splash.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library\obj\Debug\Library.Users.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library\obj\Debug\Library.exe
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library\obj\Debug\Library.pdb
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4)\bin\Debug\Library.exe.config
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4)\bin\Debug\Library.exe
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4)\bin\Debug\Library.pdb
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4)\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4)\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4)\obj\Debug\Library.Books.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4)\obj\Debug\Library.Dashboard.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4)\obj\Debug\Library.login.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4)\obj\Debug\Library.Splash.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4)\obj\Debug\Library.Properties.Resources.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4)\obj\Debug\Library.Users.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4)\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4)\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4)\obj\Debug\Library.exe
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4)\obj\Debug\Library.pdb
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4) - Kopya\bin\Debug\Library.exe.config
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4) - Kopya\bin\Debug\Library.exe
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4) - Kopya\bin\Debug\Library.pdb
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4) - Kopya\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4) - Kopya\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4) - Kopya\obj\Debug\Library.Books.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4) - Kopya\obj\Debug\Library.Dashboard.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4) - Kopya\obj\Debug\Library.login.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4) - Kopya\obj\Debug\Library.Splash.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4) - Kopya\obj\Debug\Library.Properties.Resources.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4) - Kopya\obj\Debug\Library.Users.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4) - Kopya\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4) - Kopya\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4) - Kopya\obj\Debug\Library.exe
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (4) - Kopya\obj\Debug\Library.pdb
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (6)\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (6)\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (6)\obj\Debug\Library.Books.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (6)\obj\Debug\Library.Dashboard.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (6)\obj\Debug\Library.login.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (6)\obj\Debug\Library.Splash.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (6)\obj\Debug\Library.Properties.Resources.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (6)\obj\Debug\Library.Users.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (6)\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (6)\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (6)\obj\Debug\Library.exe
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (6)\obj\Debug\Library.pdb
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (6)\bin\Debug\Library.exe.config
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (6)\bin\Debug\Library.exe
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (6)\bin\Debug\Library.pdb
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (6)\obj\Debug\Library.Billing.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (7) - Kopya\bin\Debug\Library.exe.config
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (7) - Kopya\bin\Debug\Library.exe
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (7) - Kopya\bin\Debug\Library.pdb
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (7) - Kopya\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (7) - Kopya\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (7) - Kopya\obj\Debug\Library.Billing.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (7) - Kopya\obj\Debug\Library.Books.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (7) - Kopya\obj\Debug\Library.Dashboard.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (7) - Kopya\obj\Debug\Library.login.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (7) - Kopya\obj\Debug\Library.Splash.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (7) - Kopya\obj\Debug\Library.Properties.Resources.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (7) - Kopya\obj\Debug\Library.Users.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (7) - Kopya\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (7) - Kopya\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (7) - Kopya\obj\Debug\Library.exe
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (7) - Kopya\obj\Debug\Library.pdb
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\bin\Debug\Library.exe.config
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\bin\Debug\Library.exe
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\bin\Debug\Library.pdb
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\obj\Debug\Library.AdminLogin.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\obj\Debug\Library.Billing.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\obj\Debug\Library.Books.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\obj\Debug\Library.Dashboard.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\obj\Debug\Library.login.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\obj\Debug\Library.Splash.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\obj\Debug\Library.Properties.Resources.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\obj\Debug\Library.Users.resources
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\obj\Debug\Library.exe
+C:\Users\ozans\OneDrive\Masaüstü\C dersleri\Library - Kopya (8) - Kopya - Kopya\obj\Debug\Library.pdb
